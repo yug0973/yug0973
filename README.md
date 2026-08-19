@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/yug0973">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Architecting+Peak+%26+InterviewAI+Pro;%F0%9F%A7%A0+Deep+Learning+%2B+Distributed+Systems;%F0%9F%92%A1+Turning+Complex+Algorithms+into+Seamless+UX;%F0%9F%9A%80+Full-Stack+MERN+%7C+Next.js+%7C+PyTorch" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Engineer+%7C+AI+%26+Systems+Builder;%F0%9F%A7%A0+Exploring+AI%2C+Machine+Learning+%26+Intelligent+Systems;%F0%9F%8F%97%EF%B8%8F+Designing+Scalable+%26+Distributed+Systems;%F0%9F%92%BB+Turning+Ideas+into+Production-Ready+Products;%F0%9F%9A%80+React+%7C+Node.js+%7C+Python+%7C+PyTorch" alt="Typing Tagline" />
   </a>
 
   <br/><br/>
@@ -36,8 +36,9 @@
 $ yug --whoami
 -----------------------------------------------------------------------
 > Name       : Yug Brahmbhatt
-> Focus      : Full-Stack Engineering, Agentic AI & System Architecture
-> Main Tech  : React 19, TypeScript, Next.js, Node.js, PyTorch, Redis
-> Status     : 🚀 Building Peak (AI Growth Engine) & InterviewAI Pro
+> Focus      : Full-Stack Engineering, AI & System Architecture
+> Main Tech  : React, TypeScript, Next.js, Node.js, Python, PyTorch
+> Interests  : Machine Learning, Distributed Systems & Developer Tools
+> Status     : 🚀 Building, Learning & Shipping
 > Passion    : "Building resilient systems > tutorial hell"
 -----------------------------------------------------------------------
