@@ -38,23 +38,7 @@ $ yug --whoami
 
 <br/><br/>
 
-### 📈 Live Contribution Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yug0973&theme=tokyo-night&hide_border=true&area=true" />
-
-<br/>
-
-### 📊 Stats That Actually Matter
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yug0973&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug0973&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug0973&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-### 🏆 Trophy Case
-<img src="https://github-profile-trophy.vercel.app/?username=yug0973&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 <br/><br/>
 
