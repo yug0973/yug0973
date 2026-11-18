@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
- <img src="assets/origin.svg" alt="Origin story" width="100%"/>
+ <img src="assets/origin-v2.svg" alt="Origin story" width="100%"/>
 </div>
 
 ## ⚡ Arsenal
