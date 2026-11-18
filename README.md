@@ -11,20 +11,9 @@
 
 ---
 
-## 🕸️ Origin Story
-
-```js
-const yug = {
-  alias: "Friendly Neighborhood Developer",
-  role: "Full-Stack Engineer",
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind"],   // the suit: sleek + fast
-  backend:  ["Node.js", "Express", "Python", "REST / GraphQL"], // the web: strong + invisible
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  spideySense: "Spots bugs before they hit production",
-  currentlyLearning: ["System Design", "Docker", "AWS"],
-  motto: "With great power comes great responsibility... and clean commits."
-};
-```
+<div align="center">
+  <img src="assets/origin.svg?v=1" alt="Origin story" width="100%"/>
+</div>
 
 ## ⚡ Arsenal
 
