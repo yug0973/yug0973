@@ -62,6 +62,6 @@
 [![Email](https://img.shields.io/badge/Email-e62429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-05060f?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-SITE)
 
-<img src="assets/footer.svg" width="100%" alt="With great power comes great responsibility"/>
+<img src="assets/yug-footer.svg" width="100%" alt="With great power comes great responsibility"/>
 
 </div>
