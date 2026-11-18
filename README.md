@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Yug - Full-Stack Developer" width="100%"/>
+<img src="assets/header.svg?v=2" alt="Yug - Full-Stack Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E62429&center=true&vCenter=true&width=700&lines=Swinging+through+code+%F0%9F%95%B7%EF%B8%8F;Building+pixel-perfect+frontends;Shipping+rock-solid+backends;My+spidey-sense+catches+bugs+early" alt="Typing SVG" /></a>
 
