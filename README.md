@@ -1,53 +1,78 @@
 <div align="center">
-<!-- Animated gradient wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=YUG%20BRAHMBHATT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20and%20Systems%20Builder&descAlignY=55&descSize=18" width="100%" />
-<!-- Typing tagline -->
-<a href="https://github.com/yug0973">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full-Stack+Engineer+%7C+AI+and+Systems+Builder;%F0%9F%A7%A0+Exploring+AI%2C+ML+and+Intelligent+Systems;%F0%9F%8F%97%EF%B8%8F+Designing+Scalable+and+Distributed+Systems;%F0%9F%9A%80+Turning+Ideas+into+Production-Ready+Products" />
-</a>
-<br/>
-<!-- Glowing animated badges -->
-<a href="https://www.linkedin.com/in/yug-brahmbhatt-b866bb285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" /></a>
-<a href="https://x.com/agentak0973"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black" /></a>
-<a href="mailto:yugbrahmbhatt000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" /></a>
-<a href="https://github.com/yug0973"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" /></a>
-<br/>
-<!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
-</div>
-<br/>
 
-```bash
-$ yug --whoami
------------------------------------------------------------------------
-> Name       : Yug Brahmbhatt
-> Focus      : Full-Stack Engineering, AI & System Architecture
-> Main Tech  : React, TypeScript, Next.js, Node.js, Python, PyTorch
-> Interests  : Machine Learning, Distributed Systems & Developer Tools
-> Status     : 🚀 Building, Learning & Shipping
-> Passion    : "Building resilient systems > tutorial hell"
------------------------------------------------------------------------
+<img src="assets/header.svg" alt="Yug - Full-Stack Developer" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E62429&center=true&vCenter=true&width=700&lines=Swinging+through+code+%F0%9F%95%B7%EF%B8%8F;Building+pixel-perfect+frontends;Shipping+rock-solid+backends;My+spidey-sense+catches+bugs+early" alt="Typing SVG" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yug0973&label=WEB+VISITORS&color=e62429&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/yug0973?style=for-the-badge&logo=github&color=1b2fc4)
+
+</div>
+
+---
+
+## 🕸️ Origin Story
+
+```js
+const yug = {
+  alias: "Friendly Neighborhood Developer",
+  role: "Full-Stack Engineer",
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind"],   // the suit: sleek + fast
+  backend:  ["Node.js", "Express", "Python", "REST / GraphQL"], // the web: strong + invisible
+  databases: ["MongoDB", "PostgreSQL", "Redis"],
+  spideySense: "Spots bugs before they hit production",
+  currentlyLearning: ["System Design", "Docker", "AWS"],
+  motto: "With great power comes great responsibility... and clean commits."
+};
 ```
 
-<br/>
+## ⚡ Arsenal
 
 <div align="center">
 
-### 🛠️ Tech Arsenal
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,python,pytorch,docker,postgres,mongodb,git,tailwind&theme=dark" />
+**🎨 Frontend: the suit**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yug0973&theme=tokyonight&hide_border=true" />
+**⚙️ Backend: the web-shooters**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,graphql&perline=8" />
 
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/yug0973/yug0973/output/github-contribution-grid-snake-dark.svg" width="100%" />
+**🛠️ Tools: the gadgets**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,vercel&perline=8" />
 
 </div>
-<br/>
+
+## 📊 Mission Report
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yug0973&show_icons=true&hide_border=true&bg_color=05060f&title_color=e62429&icon_color=1b2fc4&text_color=cfd8ff&ring_color=e62429" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug0973&layout=compact&hide_border=true&bg_color=05060f&title_color=e62429&text_color=cfd8ff" />
+
+<img src="https://streak-stats.demolab.com?user=yug0973&hide_border=true&background=05060F&stroke=1B2FC4&ring=E62429&fire=E62429&currStreakLabel=CFD8FF&sideLabels=CFD8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB0FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yug0973&bg_color=05060f&color=cfd8ff&line=e62429&point=1b2fc4&area=true&area_color=e62429&hide_border=true" width="100%"/>
+
+</div>
+
+## 🕷️ Featured Missions
+
+| Mission | What it does | Stack |
+|---|---|---|
+| **[Project One](https://github.com/yug0973/REPO-NAME)** | One-line pitch of your best project | `React` `Node.js` `MongoDB` |
+| **[Project Two](https://github.com/yug0973/REPO-NAME)** | One-line pitch of your second project | `Next.js` `PostgreSQL` |
+| **[Project Three](https://github.com/yug0973/REPO-NAME)** | One-line pitch of your third project | `Python` `FastAPI` |
+
+## 📡 Contact the Daily Bugle
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b2fc4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-e62429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-05060f?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-SITE)
+
+<img src="assets/footer.svg" width="100%" alt="With great power comes great responsibility"/>
+
 </div>
